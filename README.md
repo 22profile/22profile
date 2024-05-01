@@ -1,4 +1,5 @@
 # Hello World!
 
-Я начинающий Java-разработчик.
-Пишу плагины для Minecraft
+Java-developer.
+Minecraft plugins, Telegram bots
+
